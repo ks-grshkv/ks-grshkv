@@ -5,4 +5,4 @@ Typescript with Adonis.js.
 
 Feel free to contact!
 
-📫 kseniia.grshkv@yandex.ru
+📫 kseniia.a.gorshkova@gmail.com

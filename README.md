@@ -1,6 +1,6 @@
-### ✨ Hi! My name's Kseniia, I'm a freelance backend developer & graphic designer.
+### ✨ Hi! My name's Kseniia, I'm a Fullstack Software Developer with a background in Graphic Design.
 
-Python | Typescript
+Python | Typescript | Javascript
 
 Feel free to contact!
 

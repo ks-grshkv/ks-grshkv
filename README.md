@@ -1,6 +1,4 @@
-### ✨ Hi! My name's Kseniia, I'm a Fullstack Software Developer with a background in Graphic Design.
-
-Python | Typescript | Javascript
+Typescript | Javascript | Python 
 
 Feel free to contact!
 
